@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="nav_array">
+    <item>游戏列表</item>
+    <item>游戏盒子</item>
+    <item>个人中心</item>
+    <item>更多选项</item>
+</string-array>
+</resources>
